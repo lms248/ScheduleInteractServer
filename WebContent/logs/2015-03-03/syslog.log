@@ -1,0 +1,43 @@
+[INFO 2015-03-03T09:09:08.025] Star init authContent json data.
+[INFO 2015-03-03T09:09:08.259] Init authContent json data complete.
+[INFO 2015-03-03T09:09:08.259] Star init userContent json data.
+[INFO 2015-03-03T09:09:08.259] Init userContent json data complete.
+[INFO 2015-03-03T09:09:08.259] Star init navigationContent json data.
+[INFO 2015-03-03T09:09:08.259] Init navigationContent json data complete.
+[INFO 2015-03-03T09:09:08.259] Star init groupContent json data.
+[INFO 2015-03-03T09:09:08.259] Init groupContent json data complete.
+[INFO 2015-03-03T16:58:07.894] Star init authContent json data.
+[INFO 2015-03-03T16:58:08.095] Init authContent json data complete.
+[INFO 2015-03-03T16:58:08.096] Star init userContent json data.
+[INFO 2015-03-03T16:58:08.097] Init userContent json data complete.
+[INFO 2015-03-03T16:58:08.098] Star init navigationContent json data.
+[INFO 2015-03-03T16:58:08.100] Init navigationContent json data complete.
+[INFO 2015-03-03T16:58:08.100] Star init groupContent json data.
+[INFO 2015-03-03T16:58:08.101] Init groupContent json data complete.
+[INFO 2015-03-03T17:16:02.599] Star init authContent json data.
+[INFO 2015-03-03T17:16:02.809] Init authContent json data complete.
+[INFO 2015-03-03T17:16:02.809] Star init userContent json data.
+[INFO 2015-03-03T17:16:02.811] Init userContent json data complete.
+[INFO 2015-03-03T17:16:02.811] Star init navigationContent json data.
+[INFO 2015-03-03T17:16:02.813] Init navigationContent json data complete.
+[INFO 2015-03-03T17:16:02.813] Star init groupContent json data.
+[INFO 2015-03-03T17:16:02.815] Init groupContent json data complete.
+[INFO 2015-03-03T17:29:15.832] Star init authContent json data.
+[INFO 2015-03-03T17:29:16.049] Init authContent json data complete.
+[INFO 2015-03-03T17:29:16.049] Star init userContent json data.
+[INFO 2015-03-03T17:29:16.051] Init userContent json data complete.
+[INFO 2015-03-03T17:29:16.051] Star init navigationContent json data.
+[INFO 2015-03-03T17:29:16.053] Init navigationContent json data complete.
+[INFO 2015-03-03T17:29:16.053] Star init groupContent json data.
+[INFO 2015-03-03T17:29:16.054] Init groupContent json data complete.
+[ERROR 2015-03-03T17:29:22.592] Table 'rcgl.User' doesn't exist Query: select * from User   Parameters: []
+[ERROR 2015-03-03T17:29:27.237] Table 'rcgl.User' doesn't exist Query: select * from User   Parameters: []
+[ERROR 2015-03-03T17:33:41.285] Table 'rcgl.User' doesn't exist Query: select * from User   Parameters: []
+[INFO 2015-03-03T17:33:52.496] Star init authContent json data.
+[INFO 2015-03-03T17:33:52.741] Init authContent json data complete.
+[INFO 2015-03-03T17:33:52.742] Star init userContent json data.
+[INFO 2015-03-03T17:33:52.743] Init userContent json data complete.
+[INFO 2015-03-03T17:33:52.744] Star init navigationContent json data.
+[INFO 2015-03-03T17:33:52.745] Init navigationContent json data complete.
+[INFO 2015-03-03T17:33:52.746] Star init groupContent json data.
+[INFO 2015-03-03T17:33:52.747] Init groupContent json data complete.

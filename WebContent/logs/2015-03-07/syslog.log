@@ -1,0 +1,18 @@
+[INFO 2015-03-07T14:52:28.033] Star init authContent json data.
+[INFO 2015-03-07T14:52:28.267] Init authContent json data complete.
+[INFO 2015-03-07T14:52:28.267] Star init userContent json data.
+[INFO 2015-03-07T14:52:28.269] Init userContent json data complete.
+[INFO 2015-03-07T14:52:28.269] Star init navigationContent json data.
+[INFO 2015-03-07T14:52:28.275] Init navigationContent json data complete.
+[INFO 2015-03-07T14:52:28.276] Star init groupContent json data.
+[INFO 2015-03-07T14:52:28.282] Init groupContent json data complete.
+[ERROR 2015-03-07T14:59:46.556] Field 'id' doesn't have a default value
+[INFO 2015-03-07T15:48:06.070] Star init authContent json data.
+[INFO 2015-03-07T15:48:06.289] Init authContent json data complete.
+[INFO 2015-03-07T15:48:06.289] Star init userContent json data.
+[INFO 2015-03-07T15:48:06.291] Init userContent json data complete.
+[INFO 2015-03-07T15:48:06.291] Star init navigationContent json data.
+[INFO 2015-03-07T15:48:06.293] Init navigationContent json data complete.
+[INFO 2015-03-07T15:48:06.293] Star init groupContent json data.
+[INFO 2015-03-07T15:48:06.294] Init groupContent json data complete.
+[ERROR 2015-03-07T18:05:11.819] Incorrect string value: '\xF0\x9F\x90\xAF' for column 'content' at row 1

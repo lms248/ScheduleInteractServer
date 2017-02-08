@@ -1,0 +1,15 @@
+[
+	{"name":"平台管理","uri":"/rcgl/view/user-index.jsp"},
+	{"name":"","uri":"#"},
+	{"name":"用户管理","uri":"/rcgl/view/client/user.jsp"},
+	{"name":"","uri":"#"},
+	{"name":"日程管理","uri":"/rcgl/view/client/schedule.jsp"},
+	{"name":"","uri":"#"},
+	{"name":"活动管理","uri":"/rcgl/view/client/activities.jsp"},
+	{"name":"","uri":"#"},
+	{"name":"消息管理","uri":"/rcgl/view/client/message.jsp"},
+	{"name":"","uri":"#"},
+	{"name":"定位管理","uri":"/rcgl/view/client/location.jsp"},
+	{"name":"","uri":"#"},
+	{"name":"公告栏","uri":"/rcgl/view/client/announcement.jsp"}
+]
